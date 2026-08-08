@@ -166,3 +166,15 @@ Statistical significance testing
 Non-linear demand models
 Scenario comparison
 Historical vs optimized revenue comparison
+
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/81aa7507-00be-414f-9498-8487806aa805" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/aac01464-1b6b-4683-9e9d-50a9d0824396" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/10738db1-f83d-4912-ac0b-bdd7524cc345" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b6cbe384-9f76-4a8e-a8a8-fedcc112a554" />
+<img width="1912" height="1078" alt="image" src="https://github.com/user-attachments/assets/aa1b629b-6c20-4b2d-acf5-f69000a83399" />
+<img width="1912" height="1078" alt="image" src="https://github.com/user-attachments/assets/7fac54fe-c08f-4784-9e18-e464ac93541c" />
+
+
+
+
