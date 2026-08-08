@@ -93,7 +93,7 @@ where:
 Revenue is calculated as:
 
 [
-Revenue = Price \times Demand
+Revenue = Price*Predicted Demand
 ]
 
 The system evaluates multiple possible prices within the user-defined price range and selects the price generating the highest revenue.
@@ -103,7 +103,7 @@ The system evaluates multiple possible prices within the user-defined price rang
 Profit is calculated as:
 
 [
-Profit = (Price-Cost)\times Demand
+Profit = (Price-Cost)*Predicted Demand
 ]
 
 The user provides the cost per unit, allowing the system to identify the price that maximizes total profit.
