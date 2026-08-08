@@ -55,14 +55,14 @@ Automatically estimate elasticity from a CSV file.
 
 For automatic estimation, the model uses:
 
-[
-\ln(Q) = \alpha + \beta\ln(P)
-]
+n(Q)=α+βln(P)
 
 where:
-(Q) = Demand
-(P) = Price
-(\beta) = Price Elasticity of Demand
+
+Q = Demand
+P = Price
+α = Intercept
+β = Regression coefficient (Price Elasticity of Demand)
 
 Because this is a log-log regression, the estimated coefficient represents the percentage change in demand associated with a 1% change in price.
 The model also reports the R² value.
@@ -71,15 +71,7 @@ The model also reports the R² value.
 
 Once elasticity has been estimated, the model predicts demand at alternative prices using:
 
-Q_{current}
-\left[
-1+
-E
-\left(
-\frac{P_{new}-P_{current}}{P_{current}}
-\right)
-\right]
-]
+Q_new = Q_current × [1 + E × ((P_new − P_current) / P_current)]
 
 where:
 
